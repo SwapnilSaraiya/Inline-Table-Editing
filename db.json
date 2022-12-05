@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "Nikunj",
+      "country": "Canada",
+      "state": "Ontario"
+    },
+    {
+      "id": 4,
+      "name": "Roshan",
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "id": 5,
+      "name": "Kiran Tandel",
+      "country": "India",
+      "state": "Gujarat"
+    },
+    {
+      "id": 6,
+      "name": "Urvika Patel",
+      "country": "India",
+      "state": "Kerala"
+    },
+    {
+      "id": 7,
+      "name": "Prince Tandel",
+      "country": "Canada",
+      "state": "Nunavut"
+    },
+    {
+      "id": 8,
+      "name": "Neelam",
+      "country": "India",
+      "state": "Punjab"
+    }
+  ]
+}

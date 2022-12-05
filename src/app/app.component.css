@@ -1,0 +1,20 @@
+.action{
+    margin-right:.5rem;
+}
+
+.tableData th,tr,td{
+    border:1px solid black;
+    align-items: center;
+    text-align: center;
+    padding:.5rem 3rem;
+}
+.custInput{
+    border:2px solid white;
+}
+.editable{
+border-radius: 1px solid black;
+color:green;
+}
+.actionButtons{
+    display: flex;
+}
